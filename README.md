@@ -23,7 +23,7 @@ src="https://img.shields.io/twitter/follow/tanmay_singewar?logo=twitter&style=fo
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=tanmaysingewar&theme=dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysingewar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmaysingewar&theme=dracula)](https://github.com/tanmaysingewar/github-readme-activity-graph)
+[![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmaysingewar&theme=github-compact)](https://github.com/tanmaysingewar/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tanmaysingewar&icon=0&color=0)](https://visitcount.itsvg.in)
