@@ -9,7 +9,7 @@ I'm a full-stack software developer proficient in diverse web technologies and f
  ```yaml
 projects : 
   - ["DeveloperNest", "A modern platform where new developers get hatched.", "March 2023 - October 2023"]
-  - ["Pariksha", "Application for assigning sitting arrangements during the examination.", "Jan 2023 - March 2023"]
+  - ["Pariksha", "Platform for assigning sitting arrangements during the examination.", "Jan 2023 - March 2023"]
   - ["PetIDentifier", "Cat and Dog Identification", "Sepr 2022 - Oct 2022"]
 education: ["B.Tech (Artificial Intelligence and Data Science) ", "Diploma in Electronics And Telecommunication"]
 ```
