@@ -1,17 +1,19 @@
-```yaml
+Hi 👋 My name is Tanmay Singewar
+=======================================================================================================================================
+
+**Full-stack Software Developer & Machine Learning Engineer**
+
+I'm a full-stack software developer proficient in diverse web technologies and frameworks. Demonstrated success in crafting robust web and mobile applications, coupled with experience in machine learning projects. Passionate about innovation and problem-solving, consistently making significant contributions to projects and teams.
+* ⚡  Web Dev Club Lead - GDSC \[Google Developer Student Club\] - YCCE ~ 2023 - 2024
+## Projects and Education
+ ```yaml
 projects : 
   - ["DeveloperNest", "A modern platform where new developers get hatched.", "March 2023 - October 2023"]
   - ["Pariksha", "Application for assigning sitting arrangements during the examination.", "Jan 2023 - March 2023"]
   - ["PetIDentifier", "Cat and Dog Identification", "Sepr 2022 - Oct 2022"]
 education: ["B.Tech (Artificial Intelligence and Data Science) ", "Diploma in Electronics And Telecommunication"]
 ```
-```yaml
-projects : 
-  - ["DeveloperNest", "A modern platform where new developers get hatched.", "March 2023 - October 2023"]
-  - ["Pariksha", "Application for assigning sitting arrangements during the examination.", "Jan 2023 - March 2023"]
-  - ["PetIDentifier", "Cat and Dog Identification", "Sepr 2022 - Oct 2022"]
-education: ["B.Tech (Artificial Intelligence and Data Science) ", "Diploma in Electronics And Telecommunication"]
-```
+## Details
 ``` yaml
 skills: ["HTML", "CSS", "ReactJS & NextJS", "NodeJS(Express)", "MongoDB", "MySql", "React Native (Expo)", "Python"]
 fields_of_interests: ["Full-Stack Software Developer", "App Dev", "IOT", "Biomedical Engineering", "AI & ML", "Data Science", "Public Speaking", "Collaboration", "Attending Tec Events"]
@@ -19,19 +21,6 @@ technical_background: ["Full Stack Web Dev", "Optimization", "Machine Learning",
 currently_learning: ["LLM's", "Deep Learning", "Advance DSA"]
 will_learn: ["Blockchain (backend)"]
 ```
-
-Hi 👋 My name is Tanmay Singewar
-=======================================================================================================================================
-
-**Full-stack Software Developer & Machine Learning Engineer**
-
-I'm a full-stack software developer proficient in diverse web technologies and frameworks. Demonstrated success in crafting robust web and mobile applications, coupled with experience in machine learning projects. Passionate about innovation and problem-solving, consistently making significant contributions to projects and teams.
-
-* 🌍  I'm based in Nagpur, India
-* ✉️  You can contact me at [singewartanmay@gmail.com](mailto:singewartanmay@gmail.com)
-* 🧠  I'm learning Fine Tuning LLM's
-* 🤝  I'm open to collaborating on Web and AI related projects.
-* ⚡  Web Dev Club Lead - GDSC \[Google Developer Student Club\] - YCCE ~ 2023 - 2024
 
 <a href="https://www.github.com/tanmaysingewar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tanmaysingewar?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a><a href="https://www.x.com/tanmay_singewar" target="_blank" rel="noreferrer"><img
