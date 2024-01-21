@@ -22,10 +22,15 @@ currently_learning: ["LLM's", "Deep Learning", "Advance DSA"]
 will_learn: ["Blockchain (backend)"]
 ```
 
-<a href="https://www.github.com/tanmaysingewar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tanmaysingewar?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a><a href="https://www.x.com/tanmay_singewar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/tanmay_singewar?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
-/></a>
+<a href="https://www.github.com/tanmaysingewar" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/tanmaysingewar?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" />
+</a>
+<a href="https://www.x.com/tanmay_singewar" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/twitter/follow/tanmay_singewar?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"/>
+</a>
+<a href="https://www.linkedin.com/in/tanmaysingewar/" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/linkedin/follow/tanmay_singewar?logo=linkedin&style=for-the-badge&color=a855f7&labelColor=1c1917"/>
+</a>
 
 ##Skills
 
