@@ -29,7 +29,7 @@ will_learn: ["Blockchain (backend)"]
  <img src="https://img.shields.io/twitter/follow/tanmay_singewar?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"/>
 </a>
 <a href="https://www.linkedin.com/in/tanmaysingewar/" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/linkedin/follow/tanmay_singewar?logo=linkedin&style=for-the-badge&color=a855f7&labelColor=1c1917"/>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 ##Skills
