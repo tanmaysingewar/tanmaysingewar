@@ -1,3 +1,19 @@
+```yaml
+name: Tanmay Singewar
+located_in: Nagpur,🇮🇳India
+education: ["B.Tech (Artificial Intelligence and Data Science) ", "Diploma in Electronics And Telecommunication"]
+projects : 
+  - ["DeveloperNest", "A modern platform where new developers get hatched.", "March 2023 - October 2023"]
+  - ["Pariksha", "Application for assigning sitting arrangements during the examination.", "Jan 2023 - March 2023"]
+  - ["PetIDentifier", "Cat and Dog Identification", "Sepr 2022 - Oct 2022"]
+
+skills: ["HTML", "CSS", "ReactJS & NextJS", "NodeJS(Express)", "MongoDB", "MySql", "React Native (Expo)", "Python"]
+fields_of_interests: ["Full-Stack Software Developer", "App Dev", "IOT", "Biomedical Engineering", "AI & ML", "Data Science", "Public Speaking", "Collaboration", "Attending Tec Events"]
+technical_background: ["Full Stack Web Dev", "Optimization", "Machine Learning", "Real-Time Systems", "Hybrid App dev"]
+currently_learning: ["LLM's", "Deep Learning", "Advance DSA"]
+will_learn: ["Blockchain (backend)"]
+```
+
 Hi 👋 My name is Tanmay Singewar
 =======================================================================================================================================
 
