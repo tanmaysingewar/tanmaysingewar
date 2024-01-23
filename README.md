@@ -11,8 +11,8 @@ I'm a full-stack software developer proficient in diverse web technologies and f
 ## Best 3 Projects
 
   - DeveloperNest: A modern platform where new developers get hatched. - March 2023 - October 2023 
-  - Pariksha: Platform for assigning sitting arrangements during the examination.-Jan 2023 - March 2023
-  - PetIDentifier: Cat and Dog Identification-Sepr 2022 - Oct 2022
+  - Pariksha: Platform for assigning sitting arrangements during the examination.- Jan 2023 - March 2023
+  - PetIDentifier: Cat and Dog Identification-Sept 2022 - Oct 2022
 
 ## Skills
 
