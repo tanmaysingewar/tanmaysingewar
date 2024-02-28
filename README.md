@@ -1,20 +1,36 @@
-Hi 👋 My name is Tanmay Singewar
-=======================================================================================================================================
+# Hello, I'm Tanmay Singewar! 👋
 
-**Full-stack Software Developer & Machine Learning Engineer**
+I'm a Full-stack Software Developer and Machine Learning Engineer with a passion for crafting robust web and mobile applications while delving into the realms of machine learning. My journey in technology has been marked by a commitment to innovation, problem-solving, and continuous learning.
 
-I'm a full-stack software developer proficient in diverse web technologies and frameworks. Demonstrated success in crafting robust web and mobile applications, coupled with experience in machine learning projects. Passionate about innovation and problem-solving, consistently making significant contributions to projects and teams.
+## About Me
 
-* ⚡  Web Dev Club Lead - GDSC \[Google Developer Student Club\] - YCCE ~ 2023 - 2024
-* 🚀  Currently Learning - LLMs, Adv DSA, And Adv Web Dev
+- 💻 Proficient in diverse web technologies and frameworks.
+- 🎓 Currently expanding my skills in Large Language Models (LLMs), Advanced Data Structures and Algorithms (DSA), and Advanced Web Development.
+- 🚀 Web Dev Club Lead at GDSC (Google Developer Student Club) - YCCE (2023 - 2024).
 
-## Best 3 Projects
-  - DeveloperNest: A modern platform where new developers get hatched. - March 2023 - October 2023 
-  - Pariksha: Platform for assigning sitting arrangements during the examination.- Jan 2023 - March 2023
-  - PetIDentifier: Cat and Dog Identification- Sept 2022 - Oct 2022
+## Projects
+
+### DeveloperNest
+A modern platform designed to nurture new developers, providing them with the resources and support needed to flourish.
+*(March 2023 - October 2023)*
+
+### Pariksha
+A platform facilitating efficient seating arrangements during examinations, ensuring fairness and security.
+*(January 2023 - March 2023)*
+
+### PetIDentifier
+An application for identifying cats and dogs based on machine learning algorithms.
+*(September 2022 - October 2022)*
 
 ## Skills
-- Front-end - Html5, CSS3, Next.js 13(ReactJs), Redux Toolkit
-- Back-end- NodeJS, ExpressJS, JWT, Mongoose
-- Database - MySQL, MongoDB
-- API Testing - PostMan 
+
+- **Front-end:** HTML5, CSS3, Next.js (ReactJS), Redux Toolkit.
+- **Back-end:** Node.js, Express.js, JWT, Mongoose.
+- **Databases:** MySQL, MongoDB.
+- **API Testing:** Postman.
+
+## Get in Touch
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tanmay-singewar/)!
+
+Let's collaborate, innovate, and build exciting projects together!
