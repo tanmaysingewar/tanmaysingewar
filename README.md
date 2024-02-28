@@ -9,11 +9,13 @@ I'm a Full-stack Software Developer and Machine Learning Engineer with a passion
 - 🚀 Web Dev Club Lead at GDSC (Google Developer Student Club) - YCCE (2023 - 2024).
 
 ## Projects
-DeveloperNest - A modern platform designed to nurture new developers, providing them with the resources and support needed to flourish.
+- DeveloperNest - A modern platform designed to nurture new developers, providing them with the resources and support needed to flourish.
 *(March 2023 - October 2023)*
-Pariksha - A platform facilitating efficient seating arrangements during examinations, ensuring fairness and security.
+
+- Pariksha - A platform facilitating efficient seating arrangements during examinations, ensuring fairness and security.
 *(January 2023 - March 2023)*
-PetIDentifier - An application for identifying cats and dogs based on machine learning algorithms.
+
+- PetIDentifier - An application for identifying cats and dogs based on machine learning algorithms.
 *(September 2022 - October 2022)*
 
 ## Skills
