@@ -28,4 +28,5 @@ I'm a Full-stack Software Developer and Machine Learning Engineer with a passion
 ## Get in Touch
 
 Feel free to connect with me 
+
 Let's collaborate, innovate, and build exciting projects together!
