@@ -27,6 +27,5 @@ I'm a Full-stack Software Developer and Machine Learning Engineer with a passion
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/tanmay-singewar/](https://www.linkedin.com/in/tanmaysingewar/))!
-
+Feel free to connect with me 
 Let's collaborate, innovate, and build exciting projects together!
