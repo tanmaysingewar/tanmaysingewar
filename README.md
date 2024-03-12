@@ -13,6 +13,8 @@ I'm a Full-stack Software Developer and Machine Learning Engineer with a passion
 - **Front-end:** HTML5, CSS3, Next.js (ReactJS), Redux Toolkit.
 - **Back-end:** Node.js, Express.js, JWT, Mongoose.
 - **Databases:** MySQL, MongoDB.
+- **Mobile Applications:** React Native (Expo).
+- **Containerization:** Docker.
 - **API Testing:** Postman.
 
 ## Projects
